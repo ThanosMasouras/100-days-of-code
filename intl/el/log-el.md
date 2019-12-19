@@ -20,3 +20,12 @@
 **Σύνδεσμος/οι προς το project:**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Ημέρα 3: 12 Δεκεμβρίου 2019 (Παράδειγμα 1)
+##### (διέγραψέ με ή κάνε με σχόλιο)
+
+**Ημερήσια Πρόοδος:** Διόρθωσα το CSS, δούλεψα στο canvas functionality για την εφαρμογή.
+
+**Σκέψεις:** Πραγματικά πάλεψα με το CSS, ωστόσο, γενικά, νιώθω ότι γίνομαι καλύτερος σ' αυτό. Το canvas είναι ακόμα καινούριο για εμένα, αλλά κατάφερα να βρω κάποιες βασικές λειτουργίες.
+
+**Σύνδεσμος/οι προς το project:** [Calculator App](http://www.example.com)
