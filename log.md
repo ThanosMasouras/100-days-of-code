@@ -19,5 +19,15 @@
 
 **Link to work:** [MovieDP API](https://developers.themoviedb.org/3/search/search-movies)
 
+### Day 2: 25 December, 2019
+
+
+**Today's Progress**: because of christmas I finished the basics(HTML, CSS, JS) of freeCodeCamp and started a unity game
+
+**Thoughts:** first cources of freeCodeCamp are for newbies,I hope there will be more challenge in the following.Unity environment is very friendly with plenty of components
+
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
 
 
