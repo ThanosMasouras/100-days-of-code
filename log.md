@@ -34,9 +34,9 @@
 
 **Today's Progress**: finished the "Applied Visual Desig" from freeCodeCamp and study some unity tutorials.
 
-**Thoughts:** : freeCodeCamp starting to be more interesting as I complete more courses. Thinking about starting some articles and post in dev.to .
+**Thoughts:** : freeCodeCamp starting to be more interesting as I complete more courses. Thinking about starting some articles and posts in dev.to .
 
 
-**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/) [Dev Community](https://dev.to/)
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/), [Dev Community](https://dev.to/)
 
 
